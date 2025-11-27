@@ -1,0 +1,15 @@
+nutrilens-calorie-estimation/
+├─ README.md
+├─ requirements.txt
+├─ .gitignore
+├─ scripts/
+│  └─ check_project_paths.py
+└─ notebooks/
+   ├─ 01_manifest_and_preview.ipynb
+   ├─ 02_preprocess_foodseg_nutrition5k_usda.ipynb
+   ├─ 03_usda_baseline_calories_from_macros.ipynb
+   ├─ 04_maskrcnn_foodseg_nutrition5k.ipynb
+   ├─ 05_convnext_foodseg103_segments_classification.ipynb
+   ├─ 06_part1_mass_ensemble_geometry_visual_deepcnn.ipynb
+   ├─ 06_final_mass_dual_branch_resnet_tabular.ipynb
+   └─ 07_final_calories_ensemble.ipynb
