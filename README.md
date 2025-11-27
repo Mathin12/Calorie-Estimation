@@ -1,6 +1,6 @@
-# NutriLens: End-to-End Calorie Estimation From a Single Food Image
+# Enhancing Calorie Estimation Accuracy through AI-Based Portion Size Prediction Using FoodSeg103 and Nutrition5k Datasets
 
-This repository contains the full Google Colab + PyTorch pipeline used for a **NutriLens**-style calorie estimation project.
+This repository contains the full Google Colab + PyTorch pipeline used for our calorie estimation project.
 
 The system takes a **single RGB food image** and predicts:
 
